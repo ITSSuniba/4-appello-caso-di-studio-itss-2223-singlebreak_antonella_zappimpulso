@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="VenditaScontataTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2023-08-20T20:14:06" hostname="ANTONELLA" time="0.064">
+  <properties/>
+  <testcase name="[1] 2.0" classname="VenditaScontataTest" time="0.025"/>
+  <testcase name="[2] 11.0" classname="VenditaScontataTest" time="0.001"/>
+  <testcase name="[3] 14.5" classname="VenditaScontataTest" time="0.001"/>
+  <testcase name="[4] 0.0" classname="VenditaScontataTest" time="0.0"/>
+  <testcase name="[5] 100.0" classname="VenditaScontataTest" time="0.001"/>
+  <testcase name="[6] 1.7976931348623157E308" classname="VenditaScontataTest" time="0.001"/>
+  <testcase name="[7] 4.9E-324" classname="VenditaScontataTest" time="0.001"/>
+  <testcase name="caso stringa" classname="VenditaScontataTest" time="0.013"/>
+  <testcase name="test equals" classname="VenditaScontataTest" time="0.004"/>
+  <testcase name="sconto massimo" classname="VenditaScontataTest" time="0.001"/>
+  <testcase name="sconto negativo" classname="VenditaScontataTest" time="0.003"/>
+  <system-out><![CDATA[Errore: sconto negativo.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
